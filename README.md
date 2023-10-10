@@ -2,7 +2,7 @@
 ## About Me
 - Computer Science and Engineering graduate from Santa Clara University
 - Full Stack Developer with a passion for creating intuitive UI
-- Proficient in Javascript, HTML, CSS, C++, Python, and SQL
+- Proficient in Javascript, React.js, HTML, CSS, C++, Python, and SQL
 
 ## Experience 
 - I worked as a software developer intern at Roos Instruments. You can check out some of the interesting work I did [here](https://github.com/RoosInst/Dione)
